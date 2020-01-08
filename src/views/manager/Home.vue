@@ -47,7 +47,7 @@ export default {
   },
   methods:{
     toBuyHandler(p){
-      alert(JSON.stringify(p));
+      // alert(JSON.stringify(p));
       //跳转到订单确认页面，并且携带数据p
       this.$router.push({
         path:"/manager/order_confirm",
