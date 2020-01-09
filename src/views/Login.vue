@@ -1,9 +1,9 @@
 <template>
   <div class="login">
     <div class="header">
-      <div class="logo">家</div>
+      <div class="logo">鞋</div>
       <div class="title">
-        家政服务云平台
+        216鞋吧
         <span style="font-size:.8em">顾客端</span>
       </div>
     </div>
